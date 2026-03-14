@@ -1,0 +1,17 @@
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\bin\Debug\net10.0-windows\Modul3_103022400073.exe
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\bin\Debug\net10.0-windows\Modul3_103022400073.deps.json
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\bin\Debug\net10.0-windows\Modul3_103022400073.runtimeconfig.json
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\bin\Debug\net10.0-windows\Modul3_103022400073.dll
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\bin\Debug\net10.0-windows\Modul3_103022400073.pdb
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\obj\Debug\net10.0-windows\Modul3_103022400073.Form1.resources
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\obj\Debug\net10.0-windows\Modul3_103022400073.csproj.GenerateResource.cache
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\obj\Debug\net10.0-windows\Modul3_103022400073.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\obj\Debug\net10.0-windows\Modul3_103022400073.AssemblyInfoInputs.cache
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\obj\Debug\net10.0-windows\Modul3_103022400073.AssemblyInfo.cs
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\obj\Debug\net10.0-windows\Modul3_103022400073.csproj.CoreCompileInputs.cache
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\obj\Debug\net10.0-windows\Modul3_103022400073.sourcelink.json
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\obj\Debug\net10.0-windows\Modul3_103022400073.dll
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\obj\Debug\net10.0-windows\refint\Modul3_103022400073.dll
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\obj\Debug\net10.0-windows\Modul3_103022400073.pdb
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\obj\Debug\net10.0-windows\Modul3_103022400073.genruntimeconfig.cache
+C:\Users\GAMMING\OneDrive - Telkom University\University of Telkom\Konstruksi Perangkat Lunak\Praktikum\Modul3_103022400073\obj\Debug\net10.0-windows\ref\Modul3_103022400073.dll

@@ -47,7 +47,6 @@
             satuanAwal.Name = "satuanAwal";
             satuanAwal.Size = new Size(125, 28);
             satuanAwal.TabIndex = 0;
-            satuanAwal.SelectedIndexChanged += comboBox1_SelectedIndexChanged;
             // 
             // satuanAkhir
             // 
@@ -66,7 +65,6 @@
             label1.Size = new Size(91, 20);
             label1.TabIndex = 2;
             label1.Text = "Satuan Awal";
-            label1.Click += label1_Click;
             // 
             // label2
             // 
@@ -76,7 +74,6 @@
             label2.Size = new Size(92, 20);
             label2.TabIndex = 3;
             label2.Text = "Satuan Akhir";
-            label2.Click += label2_Click;
             // 
             // nilaiAwal
             // 
@@ -101,7 +98,6 @@
             label3.Size = new Size(77, 20);
             label3.TabIndex = 6;
             label3.Text = "Nilai Awal";
-            label3.Click += label3_Click;
             // 
             // label4
             // 
@@ -111,7 +107,6 @@
             label4.Size = new Size(78, 20);
             label4.TabIndex = 7;
             label4.Text = "Nilai Akhir";
-            label4.Click += label4_Click;
             // 
             // convertBtn
             // 
